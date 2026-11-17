@@ -2,7 +2,7 @@
 
 給 AI 新手的簡短講義網站（純 HTML/CSS，無需建置）。
 
-- 網頁：`https://u113029019.github.io/ai-mini-lessons/`
+- 網頁：`https://<你的帳號>.github.io/<repo 名稱>/`
 - AI 開發規則：請見 [CLAUDE.md](CLAUDE.md)
 
 ## 本機預覽
